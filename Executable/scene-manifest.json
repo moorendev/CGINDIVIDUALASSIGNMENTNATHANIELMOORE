@@ -1,0 +1,389 @@
+{
+	"Texture1D": {
+		"95739919-d55e-264e-9d80-b3860c4fe678": {
+			"filename": "luts/diffuse-1D.png",
+			"filter_mag": "Nearest",
+			"filter_min": "Nearest",
+			"generate_mipmaps": true,
+			"wrap_mode": "",
+			"guid": "95739919-d55e-264e-9d80-b3860c4fe678"
+		},
+		"05b09ad7-06d3-8e49-8e23-041c1a068b4a": {
+			"filename": "luts/specular-1D.png",
+			"filter_mag": "Nearest",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_mode": "",
+			"guid": "05b09ad7-06d3-8e49-8e23-041c1a068b4a"
+		},
+		"e05b6b7e-5b25-b54f-b84e-e10ab89058d2": {
+			"filename": "luts/toon-1D.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_mode": "",
+			"guid": "e05b6b7e-5b25-b54f-b84e-e10ab89058d2"
+		}
+	},
+	"Texture2D": {
+		"09415ab6-0e6a-2240-8a5c-5afc95a19764": {
+			"anisotropic": 16.0,
+			"filename": "textures/sand.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "09415ab6-0e6a-2240-8a5c-5afc95a19764"
+		},
+		"b0d12af4-f181-3246-abed-fd3d6498323f": {
+			"anisotropic": 16.0,
+			"filename": "textures/bin.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "b0d12af4-f181-3246-abed-fd3d6498323f"
+		},
+		"9c428a0b-2d6b-2b4b-adbf-cfe656c0e272": {
+			"anisotropic": 16.0,
+			"filename": "textures/trunk.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "9c428a0b-2d6b-2b4b-adbf-cfe656c0e272"
+		},
+		"a9de3201-293f-ab43-becb-5a24028081ce": {
+			"anisotropic": 16.0,
+			"filename": "textures/leaf.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "a9de3201-293f-ab43-becb-5a24028081ce"
+		},
+		"7c00c8d1-59f8-bb49-98aa-8cebfd97a6da": {
+			"anisotropic": 16.0,
+			"filename": "textures/ball.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "7c00c8d1-59f8-bb49-98aa-8cebfd97a6da"
+		},
+		"d0e0492a-dcf9-0946-8ab6-e70a6f2ce504": {
+			"anisotropic": 16.0,
+			"filename": "textures/water.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "d0e0492a-dcf9-0946-8ab6-e70a6f2ce504"
+		},
+		"8c3b72db-9464-9f43-8eb9-a7830f0229b4": {
+			"anisotropic": 16.0,
+			"filename": "textures/ui-sprite.png",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_s": "Repeat",
+			"wrap_t": "Repeat",
+			"guid": "8c3b72db-9464-9f43-8eb9-a7830f0229b4"
+		}
+	},
+	"Texture3D": {
+		"4c0a1804-4c3c-3b46-8243-f41ab4dc5b91": {
+			"filename": "luts/mynormal.CUBE",
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"generate_mipmaps": true,
+			"wrap_r": "",
+			"wrap_s": "",
+			"wrap_t": "",
+			"guid": "4c0a1804-4c3c-3b46-8243-f41ab4dc5b91"
+		}
+	},
+	"TextureCube": {
+		"1eb46124-531e-a044-abe4-d11d4632d5ea": {
+			"face_filenames": {
+				"NegX": "E:\\repos\\OTTERCG2\\Executable\\cubemaps\\ocean\\ocean_NegX.jpg",
+				"NegY": "E:\\repos\\OTTERCG2\\Executable\\cubemaps\\ocean\\ocean_NegY.jpg",
+				"NegZ": "E:\\repos\\OTTERCG2\\Executable\\cubemaps\\ocean\\ocean_NegZ.jpg",
+				"PosX": "E:\\repos\\OTTERCG2\\Executable\\cubemaps\\ocean\\ocean_PosX.jpg",
+				"PosY": "E:\\repos\\OTTERCG2\\Executable\\cubemaps\\ocean\\ocean_PosY.jpg",
+				"PosZ": "E:\\repos\\OTTERCG2\\Executable\\cubemaps\\ocean\\ocean_PosZ.jpg"
+			},
+			"filter_mag": "Linear",
+			"filter_min": "NearestMipLinear",
+			"guid": "1eb46124-531e-a044-abe4-d11d4632d5ea"
+		}
+	},
+	"ShaderProgram": {
+		"b1b28507-5ef6-874d-ac79-bd18f1a36d37": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/frag_blinn_phong_textured.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/basic.glsl"
+			},
+			"name": "Blinn-phong",
+			"guid": "b1b28507-5ef6-874d-ac79-bd18f1a36d37"
+		},
+		"174c750c-c9be-f941-aefd-ab4d03674177": {
+			"Fragment": {
+				"path": "shaders/fragment_shaders/skybox_frag.glsl"
+			},
+			"Vertex": {
+				"path": "shaders/vertex_shaders/skybox_vert.glsl"
+			},
+			"name": "",
+			"guid": "174c750c-c9be-f941-aefd-ab4d03674177"
+		}
+	},
+	"Gameplay::Material": {
+		"15c7e517-0cb3-174d-8222-79d9b998d96e": {
+			"guid": "15c7e517-0cb3-174d-8222-79d9b998d96e",
+			"name": "Sand",
+			"parameters": {
+				"u_Material.DiffRamp": {
+					"type": "Tex1D",
+					"value": "95739919-d55e-264e-9d80-b3860c4fe678"
+				},
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "09415ab6-0e6a-2240-8a5c-5afc95a19764"
+				},
+				"u_Material.DiffuseRamp": {
+					"type": "Bool",
+					"value": false
+				},
+				"u_Material.Mode": {
+					"type": "Int",
+					"value": 0
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				},
+				"u_Material.SpecRamp": {
+					"type": "Tex1D",
+					"value": "05b09ad7-06d3-8e49-8e23-041c1a068b4a"
+				},
+				"u_Material.SpecularRamp": {
+					"type": "Bool",
+					"value": false
+				}
+			},
+			"shader": "b1b28507-5ef6-874d-ac79-bd18f1a36d37"
+		},
+		"c079389b-0c40-eb4c-bca8-d1ef6b233d1f": {
+			"guid": "c079389b-0c40-eb4c-bca8-d1ef6b233d1f",
+			"name": "Bin",
+			"parameters": {
+				"u_Material.DiffRamp": {
+					"type": "Tex1D",
+					"value": "95739919-d55e-264e-9d80-b3860c4fe678"
+				},
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "b0d12af4-f181-3246-abed-fd3d6498323f"
+				},
+				"u_Material.DiffuseRamp": {
+					"type": "Bool",
+					"value": false
+				},
+				"u_Material.Mode": {
+					"type": "Int",
+					"value": 0
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				},
+				"u_Material.SpecRamp": {
+					"type": "Tex1D",
+					"value": "05b09ad7-06d3-8e49-8e23-041c1a068b4a"
+				},
+				"u_Material.SpecularRamp": {
+					"type": "Bool",
+					"value": false
+				}
+			},
+			"shader": "b1b28507-5ef6-874d-ac79-bd18f1a36d37"
+		},
+		"c133c256-8468-da46-b6a3-7c4233e0f88e": {
+			"guid": "c133c256-8468-da46-b6a3-7c4233e0f88e",
+			"name": "Trunk",
+			"parameters": {
+				"u_Material.DiffRamp": {
+					"type": "Tex1D",
+					"value": "95739919-d55e-264e-9d80-b3860c4fe678"
+				},
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "9c428a0b-2d6b-2b4b-adbf-cfe656c0e272"
+				},
+				"u_Material.DiffuseRamp": {
+					"type": "Bool",
+					"value": false
+				},
+				"u_Material.Mode": {
+					"type": "Int",
+					"value": 0
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				},
+				"u_Material.SpecRamp": {
+					"type": "Tex1D",
+					"value": "05b09ad7-06d3-8e49-8e23-041c1a068b4a"
+				},
+				"u_Material.SpecularRamp": {
+					"type": "Bool",
+					"value": false
+				}
+			},
+			"shader": "b1b28507-5ef6-874d-ac79-bd18f1a36d37"
+		},
+		"027077b6-e811-f548-84fe-82e3ba4b417e": {
+			"guid": "027077b6-e811-f548-84fe-82e3ba4b417e",
+			"name": "Leaf",
+			"parameters": {
+				"u_Material.DiffRamp": {
+					"type": "Tex1D",
+					"value": "95739919-d55e-264e-9d80-b3860c4fe678"
+				},
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "a9de3201-293f-ab43-becb-5a24028081ce"
+				},
+				"u_Material.DiffuseRamp": {
+					"type": "Bool",
+					"value": false
+				},
+				"u_Material.Mode": {
+					"type": "Int",
+					"value": 0
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.10000000149011612
+				},
+				"u_Material.SpecRamp": {
+					"type": "Tex1D",
+					"value": "05b09ad7-06d3-8e49-8e23-041c1a068b4a"
+				},
+				"u_Material.SpecularRamp": {
+					"type": "Bool",
+					"value": false
+				}
+			},
+			"shader": "b1b28507-5ef6-874d-ac79-bd18f1a36d37"
+		},
+		"c381d1cf-1e89-034e-ad1e-08c9e3777a9d": {
+			"guid": "c381d1cf-1e89-034e-ad1e-08c9e3777a9d",
+			"name": "Ball",
+			"parameters": {
+				"u_Material.DiffRamp": {
+					"type": "Tex1D",
+					"value": "95739919-d55e-264e-9d80-b3860c4fe678"
+				},
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "7c00c8d1-59f8-bb49-98aa-8cebfd97a6da"
+				},
+				"u_Material.DiffuseRamp": {
+					"type": "Bool",
+					"value": false
+				},
+				"u_Material.Mode": {
+					"type": "Int",
+					"value": 0
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.800000011920929
+				},
+				"u_Material.SpecRamp": {
+					"type": "Tex1D",
+					"value": "05b09ad7-06d3-8e49-8e23-041c1a068b4a"
+				},
+				"u_Material.SpecularRamp": {
+					"type": "Bool",
+					"value": false
+				}
+			},
+			"shader": "b1b28507-5ef6-874d-ac79-bd18f1a36d37"
+		},
+		"203b9e6e-5d33-8240-a71a-6d9992a58280": {
+			"guid": "203b9e6e-5d33-8240-a71a-6d9992a58280",
+			"name": "Water",
+			"parameters": {
+				"u_Material.DiffRamp": {
+					"type": "Tex1D",
+					"value": "95739919-d55e-264e-9d80-b3860c4fe678"
+				},
+				"u_Material.Diffuse": {
+					"type": "Tex2D",
+					"value": "d0e0492a-dcf9-0946-8ab6-e70a6f2ce504"
+				},
+				"u_Material.DiffuseRamp": {
+					"type": "Bool",
+					"value": false
+				},
+				"u_Material.Mode": {
+					"type": "Int",
+					"value": 0
+				},
+				"u_Material.Shininess": {
+					"type": "Float",
+					"value": 0.8999999761581421
+				},
+				"u_Material.SpecRamp": {
+					"type": "Tex1D",
+					"value": "05b09ad7-06d3-8e49-8e23-041c1a068b4a"
+				},
+				"u_Material.SpecularRamp": {
+					"type": "Bool",
+					"value": false
+				}
+			},
+			"shader": "b1b28507-5ef6-874d-ac79-bd18f1a36d37"
+		}
+	},
+	"Gameplay::MeshResource": {
+		"586d344e-f59b-4e40-adff-ce4b013ea1e5": {
+			"filename": "sand.obj",
+			"guid": "586d344e-f59b-4e40-adff-ce4b013ea1e5"
+		},
+		"0e5d1dec-c865-754d-8b34-e71784769803": {
+			"filename": "sandbin.obj",
+			"guid": "0e5d1dec-c865-754d-8b34-e71784769803"
+		},
+		"5e3d86eb-d491-4b42-8d47-e63fdc66cf8e": {
+			"filename": "trunk.obj",
+			"guid": "5e3d86eb-d491-4b42-8d47-e63fdc66cf8e"
+		},
+		"ab6f6eea-6d7c-5846-b2a2-f46a372ed895": {
+			"filename": "leaf.obj",
+			"guid": "ab6f6eea-6d7c-5846-b2a2-f46a372ed895"
+		},
+		"ac3c9b90-5bed-c149-9867-cd0caa9e0021": {
+			"filename": "ball.obj",
+			"guid": "ac3c9b90-5bed-c149-9867-cd0caa9e0021"
+		},
+		"a380463c-f374-164e-8187-1424017561d6": {
+			"filename": "water.obj",
+			"guid": "a380463c-f374-164e-8187-1424017561d6"
+		}
+	},
+	"Font": null,
+	"Framebuffer": null
+}
